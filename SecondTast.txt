@@ -1,1 +1,2 @@
 Editing virtual object
+Adding vrealm synchronization
