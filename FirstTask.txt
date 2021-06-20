@@ -1,2 +1,3 @@
 file copy complete
 updating package searcher
+uploading configuration file
